@@ -1,9 +1,11 @@
 body{ 
 background: rgb(57,54,112);
 background: linear-gradient(180deg, rgba(57,54,112,1) 0%, rgba(66,66,138,1) 35%, rgba(137,183,220,1) 100%);
+background-repeat: no-repeat;
 color: #ffffff;
 text-align:center;
 padding:2em;
+height:100%;
 }
 
 /*tooltip Box*/
