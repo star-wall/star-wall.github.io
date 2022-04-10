@@ -115,3 +115,9 @@ height:100%;
   transform: rotate(90deg);
 }
 
+/*stars*/
+
+.star{
+height:2em;
+width:2em;
+}
