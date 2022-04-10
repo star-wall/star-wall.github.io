@@ -13,17 +13,11 @@ height:100%;
 .con-tooltip {
 
   position: relative;
-  background: #F2D1C9;
-  
-  border-radius: 9px;
   padding: 0 20px;
   margin: 10px;
-  
   display: inline-block;
-  
   transition: all 0.3s ease-in-out;
   cursor: default;
-
 }
 
 /*tooltip */
@@ -31,12 +25,10 @@ height:100%;
   visibility: hidden;
   z-index: 1;
   opacity: .40;
-  
   width: 100%;
   padding: 0px 20px;
-
-  background: #333;
-  color: #E086D3;
+  background: #DED9FB;
+  color: #333;
   
   position: absolute;
   top:-140%;
