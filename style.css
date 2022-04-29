@@ -129,4 +129,5 @@ margin-right:1em;
 }
 .con{
 display:flex;
+justify-content:center;
 }
